@@ -26,6 +26,12 @@ Developers design, build, test, and deliver software components. They collaborat
 - PR descriptions and code review comments
 - Technical design docs when needed
 
+### Key Interactions
+- **With Product Managers**: Collaborates on feature specifications and acceptance criteria, provides technical feasibility input, and estimates effort for roadmap planning.
+- **With Project Managers**: Reports on task progress and blockers, participates in sprint planning and retrospectives, and helps identify technical risks and dependencies.
+- **With UX Designers**: Reviews design specifications for technical feasibility, implements UI/UX designs, and provides feedback on design implementation challenges.
+- **With DevOps Engineers**: Collaborates on CI/CD pipeline requirements, troubleshoots deployment issues, and ensures code is production-ready.
+
 ---
 
 ## Product Managers
@@ -48,6 +54,12 @@ Product Managers define what should be built to deliver customer and business va
 - Weekly alignment with PM and engineering leads
 - Roadmap updates and stakeholder briefings
 - Acceptance criteria and feature specs
+
+### Key Interactions
+- **With Developers**: Defines feature requirements and acceptance criteria, reviews implementation progress, and makes trade-off decisions on scope and technical approach.
+- **With Project Managers**: Aligns on roadmap priorities and timelines, communicates product vision and goals, and collaborates on stakeholder management.
+- **With UX Designers**: Partners on user research and design validation, ensures designs align with product vision, and prioritizes design improvements.
+- **With Customer Support/Success**: Gathers user feedback and pain points, prioritizes bug fixes and feature requests, and communicates product changes and rationale.
 
 ---
 
@@ -72,6 +84,12 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Weekly status updates and stakeholder reports
 - Risk registers and decision logs
 - Coordination via project boards and meeting facilitation
+
+### Key Interactions
+- **With Developers**: Facilitates sprint planning and retrospectives, tracks task progress and blockers, and manages dependencies and resource allocation.
+- **With Product Managers**: Aligns on priorities and timelines, escalates risks and constraints, and coordinates stakeholder communication.
+- **With DevOps Engineers**: Coordinates release schedules and deployment windows, tracks infrastructure dependencies, and participates in go/no-go decisions.
+- **With Technical Writers**: Ensures documentation is scheduled and tracked, coordinates documentation reviews, and manages documentation as part of release deliverables.
 
 ---
 
